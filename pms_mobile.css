@@ -1,0 +1,16 @@
+/* Hide a specific Custom Page from the Primary Navigation Menu */
+ 
+.primary-navigation li[data-key="tool_custompage-11"] {display: none;} 
+
+.primary-navigation li[data-key="tool_custompage-17"] {display: none;} 
+
+.primary-navigation li[data-key="tool_custompage-13"] {display: none;} 
+
+.primary-navigation li[data-key="tool_custompage-14"] {display: none;} 
+
+.primary-navigation li[data-key="tool_custompage-15"] {display: none;} 
+
+.primary-navigation li[data-key="tool_custompage-16"] {display: none;}
+
+.primary-navigation li[data-key="tool_custompage-18"] {display: none;}
+ 
